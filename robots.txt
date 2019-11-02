@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atulfind.github.com/sitemap.xml
