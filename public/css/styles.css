@@ -649,6 +649,7 @@ html {
   color: #fff; }
 
 .container {
+  min-width: 1200px;
   width: 100%; }
   .container .overlay {
     background: rgba(0, 0, 0, 0.9);
